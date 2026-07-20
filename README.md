@@ -4,15 +4,15 @@
 
 **Automatically tracked NLP & LLM papers from arXiv — updated every 12 hours.**
 
-[![Website](https://img.shields.io/badge/website-monologg.kr/nlp--arxiv--daily-2563eb?style=for-the-badge)](https://monologg.kr/nlp-arxiv-daily)
-[![RSS](https://img.shields.io/badge/RSS-feed-orange?style=for-the-badge&logo=rss)](https://monologg.kr/nlp-arxiv-daily/rss.xml)
+[![Website](https://img.shields.io/badge/website-xiaoqianran.github.io/actions--arxiv001--nlp--arxiv--daily-2563eb?style=for-the-badge)](https://xiaoqianran.github.io/actions-arxiv001-nlp-arxiv-daily)
+[![RSS](https://img.shields.io/badge/RSS-feed-orange?style=for-the-badge&logo=rss)](https://xiaoqianran.github.io/actions-arxiv001-nlp-arxiv-daily/rss.xml)
 
-[![Daily update](https://github.com/monologg/nlp-arxiv-daily/actions/workflows/nlp-arxiv-daily.yml/badge.svg)](https://github.com/monologg/nlp-arxiv-daily/actions/workflows/nlp-arxiv-daily.yml)
-[![Astro build](https://github.com/monologg/nlp-arxiv-daily/actions/workflows/astro-build.yml/badge.svg)](https://github.com/monologg/nlp-arxiv-daily/actions/workflows/astro-build.yml)
+[![Daily update](https://github.com/xiaoqianran/actions-arxiv001-nlp-arxiv-daily/actions/workflows/nlp-arxiv-daily.yml/badge.svg)](https://github.com/xiaoqianran/actions-arxiv001-nlp-arxiv-daily/actions/workflows/nlp-arxiv-daily.yml)
+[![Astro build](https://github.com/xiaoqianran/actions-arxiv001-nlp-arxiv-daily/actions/workflows/astro-build.yml/badge.svg)](https://github.com/xiaoqianran/actions-arxiv001-nlp-arxiv-daily/actions/workflows/astro-build.yml)
 
-### 👉 [**Browse papers on the website →**](https://monologg.kr/nlp-arxiv-daily)
+### 👉 [**Browse papers on the website →**](https://xiaoqianran.github.io/actions-arxiv001-nlp-arxiv-daily)
 
-<a href="https://monologg.kr/nlp-arxiv-daily">
+<a href="https://xiaoqianran.github.io/actions-arxiv001-nlp-arxiv-daily">
   <img src="docs/images/hero.png" alt="NLP Arxiv Daily — website screenshot" width="800" />
 </a>
 
@@ -25,7 +25,7 @@
 - 🔎 **Full-text search** across every paper (powered by [Pagefind](https://pagefind.app))
 - 🏷️ **Keyword tabs** — NLP, LLM, RAG, Reasoning, Multimodal, Long Context, Code LLM, …
 - 🗓️ **Monthly archives** going back to launch
-- 📡 **[RSS feed](https://monologg.kr/nlp-arxiv-daily/rss.xml)** for your reader of choice
+- 📡 **[RSS feed](https://xiaoqianran.github.io/actions-arxiv001-nlp-arxiv-daily/rss.xml)** for your reader of choice
 - 🌓 Light/dark theme, mobile-friendly, no tracking
 
 ## How it works
